@@ -46,3 +46,5 @@ const Characters = () => {
 };
 
 export default Characters;
+
+// https://youtu.be/NQULKpW6hK4?t=714
